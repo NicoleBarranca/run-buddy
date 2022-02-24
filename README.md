@@ -8,7 +8,8 @@ A webstie that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+<a href="https://nicolebarranca.github.io/run-buddy/">Run Buddy</a>
+
 
 ## Contribution
 Made with ❤️ by Nicole Barranca
